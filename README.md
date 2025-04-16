@@ -24,22 +24,30 @@ python/
 │   │   ├── graph_representation.py
 │   │   ├── graph_algorithms.py
 │   │   ├── README.md
+│   ├── heaps/
+│   │   ├── min_heap.py
+│   │   ├── max_heap.py
+│   │   ├── README.md
 │   ├── hash_tables/
 │   │   ├── hash_table_implementation.py
 │   │   ├── collision_resolution.py
 │   │   ├── README.md
-│   ├── algorithms/
-│   │   ├── sorting/
-│   │   │   ├── bubble_sort.py
-│   │   │   ├── insertion_sort.py
-│   │   │   ├── merge_sort.py
-│   │   │   └── README.md
-│   │   ├── searching/
-│   │   │   ├── linear_search.py
-│   │   │   ├── binary_search.py
-│   │   │   └── README.md
-│   │   ├── README.md
 │   └── README.md         # README for the Data Structures section
+├── algorithms/
+│   ├── sorting/
+│   │   ├── bubble_sort.py
+│   │   ├── insertion_sort.py
+│   │   ├── quick_sort.py
+│   │   ├── merge_sort.py
+│   │   └── README.md
+│   ├── searching/
+│   │   ├── breadth_first_search.py
+│   │   ├── depth_first_search.py
+│   │   ├── linear_search.py
+│   │   ├── binary_search.py
+│   │   ├── binary_search_tree_traversal.py
+│   │   └── README.md
+│   └── README.md         # README for the Algorithms section
 ├── resources/
 │   ├── useful_links.md
 │   ├── cheat_sheets/
